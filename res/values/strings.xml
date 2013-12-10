@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cartoonify</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image_view_desc">Browse samples</string>
+    <string name="camera_btn_str">Camera</string>
+    <string name="gallery_btn_str">Gallery</string>
+    <string name="save_btn_str">Save</string>
+    <string name="info_message">Choose an action!</string>
+    <string name="info_processing">Processing image&#8230;</string>
+    <string name="info_saved">Saved image:</string>
+    <string name="info_process_complete">Done!</string>
+    <string name="title_message">Slide to adjust parameters</string>
+    
+    <string name="toonify">Toonify!</string>
+    <string name="toonify_message"> Adjust parameters below</string>
+
+</resources>
